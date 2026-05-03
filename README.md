@@ -1,6 +1,6 @@
-<img src="./icon.svg" alt="Toxium Launcher" width="128" align="left">
+# Toxium Launcher
 
-## Toxium Launcher
+<img src="./icon.svg" alt="Toxium Launcher" width="128" align="left">
 
 Лаунчер для быстрого запуска Minecraft с готовым каталогом игровых установок, управлением профилями, поддержкой скинов и автоматической подготовкой локального инстанса перед игрой.
 <br clear="left">
